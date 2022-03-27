@@ -3,7 +3,7 @@ import "./App.css";
 
 const App = () => {
   return (
-    <div>
+    <div class="container">
       <h1> Sliding Signin - Signup Form</h1>
     </div>
   );
