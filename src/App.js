@@ -1,10 +1,11 @@
 import React from "react";
 import "./App.css";
+import FormsContainer from './components/FormsContainer';
 
 const App = () => {
   return (
-    <div class="container">
-      <h1> Sliding Signin - Signup Form</h1>
+    <div className="container">
+    <FormsContainer/>
     </div>
   );
 };
