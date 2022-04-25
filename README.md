@@ -1,3 +1,30 @@
+# Sliding Sign in - Sign up Forms 
+
+Responsive animated sliding forms in React
+
+
+**FEATURES**
+
+* Built with HTML, React, Styled-Components,  Font Awesome
+* Flexbox & Grid layout
+* Signin/Signup Forms
+* Custom Components
+* Props with Styled-Components
+* Custome SVG
+* CSS Animation
+* Responsive design
+
+**VIEWS**
+
+![view1](/images/screenshots/view1.gif "view1")
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
