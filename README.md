@@ -5,7 +5,7 @@ Responsive animated sliding forms in React
 
 **FEATURES**
 
-* Built with HTML, React, Styled-Components,  Font Awesome
+* Built with React JS, Styled-Components,  SVG, Font Awesome
 * Flexbox & Grid layout
 * Signin/Signup Forms
 * Custom Components
